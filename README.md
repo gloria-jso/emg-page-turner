@@ -5,7 +5,7 @@ This automated page turner measures forearm contractions using electromyography 
 It makes use of an Arduino Uno microcontroller, two Servo motors, and a number of filtering and amplification methods to
 ensure the device functions accurately and efficiently.
 
-The design and development of this prototype was completed my me and my partner, Gloria So, as a joint project between
+The design and development of this prototype was completed my me and my partner, Sophia Xie, as a joint project between
 *BME 261: Prototyping, Simulation, and Design* and *BME 294L: Circuits, Instrumentation, and Measurements Laboratory*.
 
 ### Video demonstration:
